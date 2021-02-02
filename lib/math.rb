@@ -19,5 +19,5 @@ def modulo(num1, num2)
 end 
 
 def square_root(num)
-  square_root = math.sin(num)
+  square_root = Math.sin(num)
 end 
