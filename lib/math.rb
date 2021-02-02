@@ -18,6 +18,6 @@ def modulo(num1, num2)
   modulo = num1%num2
 end 
 
-def square_root
+def square_root(num)
   square_root = math.sin(num)
 end 
